@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Toast_dusht</string>
+    <string name="call_toast">Call Toast</string>
+    <string name="add">ADD</string>
+    <string name="result">Result</string>
+    <string name="enter_number_1">Enter Number 1</string>
+    <string name="enter_number_2">Enter Number 2</string>
+    <string name="sub">SUB</string>
+    <string name="multiply">MULTIPLY</string>
+<!--    <string name="result">Result</string>-->
+    <string name="divide">DIVIDE</string>
+    <string name="square">SQUARE</string>
+    <string name="clear">CLEAR</string>
+<!--    <string name="enter_number_2">Enter Number 2</string>-->
+<!--    <string name="enter_number_1">Enter Number 1</string>-->
+</resources>
